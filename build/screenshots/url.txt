@@ -1,0 +1,2 @@
+local host : http://13.201.9.186/
+Docker uRl : https://hub.docker.com/repositories/antanydaniel
